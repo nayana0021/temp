@@ -2,3 +2,4 @@
 *.class
 
 index.txt
+.DS_Store
